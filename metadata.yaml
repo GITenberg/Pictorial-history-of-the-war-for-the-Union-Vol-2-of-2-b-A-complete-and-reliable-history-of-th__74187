@@ -1,5 +1,8 @@
 _repo: Pictorial-history-of-the-war-for-the-Union-Vol-2-of-2-b-A-complete-and-reliable-history-of-th__74187
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74187-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephens, Ann S. (Ann Sophia)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3257
     wikipedia: https://en.wikipedia.org/wiki/Ann_S._Stephens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74187#Pictorial-history-of-the-war-for-the-Union-Vol-2-of-2-b-A-complete-and-reliable-history-of-th_
 gutenberg_issued: '2024-08-04'
 gutenberg_type: Text
 identifiers:
